@@ -1,9 +1,7 @@
 # Mips-Instruction-Simulator
 
 Instructions
-For reference, please use the MIPS Instruction Set Architecture PDF (available from class project2 webpage) to see
-the format for each instruction and pay attention to the following changes. Your disassembler and simulator need
-to support the three categories of instructions.
+Your disassembler and simulator need to support the three categories of instructions.
 
 Category-1 
 
